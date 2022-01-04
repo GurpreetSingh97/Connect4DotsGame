@@ -14,5 +14,5 @@ console and determines the status of the game (win, draw, or continue). Here is 
 <img src="https://github.com/GurpreetSingh97/Connect4DotsGame/blob/main/Screen%20Shot%202022-01-03%20at%205.50.23%20PM.png" alt="alt text" width="400" height="550">
 
 # How to run the game:  
-1. Download the Connect4DotsGame repository.  
+1. Download the [Connect4DotsGame](https://github.com/GurpreetSingh97/Connect4DotsGame) repository.  
 2. Compile the [connect4Dots.java](https://github.com/GurpreetSingh97/Connect4DotsGame/tree/main/src/connect4DotsGame) file located under connect4DotsGame/src/connect4DotsGame.
