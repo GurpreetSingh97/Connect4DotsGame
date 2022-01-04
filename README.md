@@ -16,4 +16,4 @@ console and determines the status of the game (win, draw, or continue). Here is 
 
 How to run the game:  
 1. Download Connect4DotsGame repository.  
-2. Compile the [connect4Dots.java](https://github.com/GurpreetSingh97/Connect4DotsGame/tree/main/src/connect4DotsGame) file located under connect4DotsGame-main/src/connect4DotsGame.
+2. Compile the [connect4Dots.java](https://github.com/GurpreetSingh97/Connect4DotsGame/tree/main/src/connect4DotsGame) file located under connect4DotsGame/src/connect4DotsGame.
