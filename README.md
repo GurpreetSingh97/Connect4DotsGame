@@ -12,5 +12,8 @@ yellow in a light color. Whenever a disk is dropped, the program redisplays the 
 console and determines the status of the game (win, draw, or continue). Here is a sample run
 
 
-![Image2](https://github.com/GurpreetSingh97/Connect4DotsGame/blob/main/Screen%20Shot%202022-01-03%20at%205.50.23%20PM.png)
+![Image2](https://github.com/GurpreetSingh97/Connect4DotsGame/blob/main/Screen%20Shot%202022-01-03%20at%205.50.23%20PM.png)  
 
+How to run the game:  
+1. Download Connect4DotsGame repository.  
+2. Compile the [connect4Dots.java](https://github.com/GurpreetSingh97/Connect4DotsGame/tree/main/src/connect4DotsGame) file located under connect4DotsGame-main/src/connect4DotsGame.
